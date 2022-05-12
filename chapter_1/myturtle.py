@@ -1,6 +1,6 @@
 from turtle import *
 shape('turtle')
-speed(3)
+speed(1)
 # speed 0 is the fastest, speed 1 the slowest
 
 def square():
