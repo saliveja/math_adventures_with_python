@@ -9,3 +9,11 @@ def square(sidelength=100):
         right(90)
 
 square(50)
+
+
+def triangle(sidelength=100):
+    for i in range(3):
+        forward(sidelength)
+        left(120)
+
+triangle()
