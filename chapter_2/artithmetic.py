@@ -26,4 +26,7 @@ def mySum2(num):
 
     return running_sum
 
+def average3(numlist):
+    return sum(numlist) / len(numlist)
+
 
