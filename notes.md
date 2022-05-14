@@ -8,5 +8,5 @@ forward()									| turtle module using pixels for length of movement									|
 right()									| turtle module degrees, right(90) would be right turn 90 degrees							|
 left()										| turtle module. left turn, value means degrees									|
 count += number								| adding to a value is written compactly like this (count = count + number)						|
-
+speed()									| turtle module. 0 is the fastest and 1 is the slowest								| 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	        
